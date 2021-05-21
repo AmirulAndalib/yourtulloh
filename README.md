@@ -10,12 +10,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - 📫 How to reach me: [@yourtulloh](https://instagram.com/yourtulloh)
 - ⚡ Fun fact: I ❤️ 😺 <br>&nbsp;
 
-<p align="center">
+<!--- <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourtulloh&layout=compact&theme=radical&card_width=800" />
-  </a>
-<!-- <a href="https://github.com/jovanzers">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jovanzers&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  </a> - - >
+<!-- <a href="https://github.com/yourtulloh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourtulloh&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourtulloh&layout=compact&theme=radical" />
 </a> -->
 </p>
